@@ -1,15 +1,36 @@
 #topRight {
-
+    position: absolute;
+    top: 0;
+    bottom: 50%;
+    left: 50%;
+    right: 0;
+    /* border: 5px solid blue; */
 }
 
 #topLeft {
+    position: absolute;
+    top: 0;
+    bottom: 50%;
+    left: 0;
+    right: 50%;
+    /* border: 5px solid green; */
 
 }
 
 #bottomRight {
-
+    position: absolute;
+    top: 50%;
+    bottom: 0;
+    right: 0;
+    left: 50%;
+    /* border: 5px solid orange; */
 }
 
 #bottomLeft {
-    
+    position: absolute;
+    top: 50%;
+    bottom: 0;
+    left: 0;
+    right: 50%;
+    /* border: 5px solid red; */
 }
