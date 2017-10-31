@@ -1,0 +1,27 @@
+.fgPink {
+    color: fuchsia;
+}
+
+.lightBlue {
+    background-color: lightblue;
+}
+
+.pink {
+    color:pink;
+}
+
+.smallcaps {
+    font-variant: small-caps;
+}
+
+.center {
+    text-align: center;
+}
+
+.width {
+    width: 20em;
+}
+
+.margin {
+    margin: 0 auto;
+}
